@@ -1,0 +1,32 @@
+                              JSON 
+is stands for javascript object notation
+
+{
+    "name":"Abhi"
+}
+
+                           USE OF JSON
+1. Data interchange between client and server: JSON is used to send data from the server to the client in a 
+structured format, which can JSON is used to store and transport data.
+
+                                  syntext
+{"name":"Abhi,"Age":21}
+
+                     data type
+number, string, Boolean,object,null
+                      number
+    number must be a integer or floating point
+    {"age": 21}
+               
+                     string
+    {"Name":"Ram"}
+
+                    array
+
+    {
+    "member":["collage",party]
+    }
+             object
+      {
+        "Employes":{"name":"jon","Type  of job" : "programar"}
+      }       
